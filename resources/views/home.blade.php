@@ -11,7 +11,64 @@
         <title>Laravel Primi Passi</title>
     </head>
     <body>
-        <h1>Hello Laravel!</h1>
+        <header class="fixed-top">
+            <nav class="navbar navbar-expand-lg navbar-dark py-4 bg-primary">
+                <div class="container">
+                    <a class="navbar-brand fw-bold " href="/">
+                        Hello Laravel!
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="/">
+                                    Home
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="zucchero.blade.php">
+                                    Zucchero
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="cannella.blade.php">
+                                    Cannella
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="ogni.blade.php">
+                                    Ogni
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="cosa.blade.php">
+                                    Cosa
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="bella.blade.php">
+                                    Bella
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main class="vh-100">
+            <div class="container h-100">
+                <div class="row h-100 align-items-center">
+                    <div class="col">
+                        <h1 class="display-1 text-center fw-bold text-primary">
+                            Hello Laravel!
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </main>
 
 
         <!-- BOOTSTRAP -->
