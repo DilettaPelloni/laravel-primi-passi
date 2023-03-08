@@ -28,12 +28,12 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/zucchero">
+                                <a class="nav-link" href="/zucchero">
                                     Zucchero
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/cannella">
+                                <a class="nav-link active" aria-current="page" href="/cannella">
                                     Cannella
                                 </a>
                             </li>
@@ -63,11 +63,11 @@
                 <div class="row h-100 align-items-center">
                     <div class="col d-flex justify-content-center align-items-center">
                         <h1 class="display-1 text-center fw-bold text-primary">
-                            Zucchero
+                            Cannella
                         </h1>
                         <img
                             class="d-block w-25"
-                            src="https://img.freepik.com/premium-vector/sugar-paper-packaging-vector-illustration_202271-1968.jpg?w=2000"
+                            src="https://img.freepik.com/premium-vector/set-with-cinnamon-dried-orange-anise-isolated-white-background-cartoon-spice-vector-illustration-autumn-winter-holiday-decoration-menu_693602-184.jpg?w=2000"
                             alt="zucchero"
                         >
                     </div>
