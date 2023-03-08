@@ -24,3 +24,15 @@ Route::get('/zucchero', function () {
 Route::get('/cannella', function () {
     return view('cannella');
 });
+
+Route::get('/ogni', function () {
+    return view('ogni');
+});
+
+Route::get('/cosa', function () {
+    return view('cosa');
+});
+
+Route::get('/bella', function () {
+    return view('bella');
+});
